@@ -23,7 +23,7 @@ class MyTurtle:
 # Membuat objek turtle dengan warna dan bentuk
 turtle1 = MyTurtle("purple", "turtle")
 
-# Menggambar persegi dengan ukuran sisi 200
+# Menggambar segitiga dengan ukuran sisi 200
 turtle1.buat_segitiga(200)
 
 # Menyelesaikan gambar
