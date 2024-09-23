@@ -5,6 +5,7 @@ class MyTurtle:
         self.t = turtle.Turtle()  # Object dari class Turtle
         self.t.color(color)  # Mengatur warna turtle
         self.t.shape(shape)  # Mengatur bentuk turtle
+        self.t.turtlesize(2) # Mengatur ukuran turtle
 
     def maju(self, jarak):  # Method untuk menggerakkan turtle maju
         self.t.forward(jarak)
