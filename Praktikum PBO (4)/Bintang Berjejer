@@ -32,4 +32,8 @@ class MyTurtle:
 
 turtle1 = MyTurtle("red", "turtle", -200, 0)
 turtle1.buat_bintang_berjejer(100, 3, 100)
+
+turtle2 = MyTurtle("yellow", "turtle", -200, 0)
+turtle2.buat_bintang_berjejer(100, 3, 100)
+
 turtle1.selesai()
